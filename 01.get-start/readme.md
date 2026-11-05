@@ -4,6 +4,8 @@
 
 > npx n8n
 
+> n8n start 
+
 
 
 
